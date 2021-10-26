@@ -13,4 +13,4 @@
 * Term : kitty
 * Font : iosevka Custom
 * Bar : Polybar
-* DM  : ly-git
+* DM  : [ly-git](https://github.com/nullgemm/ly)
