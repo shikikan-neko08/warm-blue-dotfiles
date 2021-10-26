@@ -13,3 +13,4 @@
 * Term : kitty
 * Font : iosevka Custom
 * Bar : Polybar
+* DM  : ly-git
